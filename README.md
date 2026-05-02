@@ -1,2 +1,2 @@
 # VIKOR
-A simpel vikor data anylise  programe, that i build for some one in my family
+A simple VIKOR data analysis program that I built for someone in my family
